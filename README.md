@@ -1,1 +1,1 @@
-# Amazon-Web-Scraper
+The Amazon-Web-Scraper project scrapes the details of the products ranging from the name, price, all the way to the ratings. This project does the scraping job for the user according to the search string mentioned in the main program as argument. After collecting all the data, the code saves it to a excel file for further analysis.
